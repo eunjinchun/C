@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-3", "07-3\07-3.vcxproj", "{F22AF450-D830-425A-B577-B072C481F3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Debug|x64.ActiveCfg = Debug|x64
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Debug|x64.Build.0 = Debug|x64
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Debug|x86.Build.0 = Debug|Win32
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Release|x64.ActiveCfg = Release|x64
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Release|x64.Build.0 = Release|x64
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Release|x86.ActiveCfg = Release|Win32
+		{F22AF450-D830-425A-B577-B072C481F3DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5791F4-3473-4454-B255-46514D6AE116}
+	EndGlobalSection
+EndGlobal
