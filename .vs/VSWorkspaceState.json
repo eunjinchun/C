@@ -1,17 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chap05",
     "\\Chap05\\05-2",
-    "\\Chap10",
     "\\Chap10\\10-6",
     "\\Chap10\\10-6\\10-6",
-    "\\Chap11",
     "\\Chap11\\11-3",
     "\\Chap11\\11-3\\11-3",
     "\\Chap11\\11-4",
-    "\\Chap11\\11-4\\11-4"
+    "\\Chap11\\11-4\\11-4",
+    "\\Chap12",
+    "\\Chap12\\12-1",
+    "\\Chap12\\12-1\\12-1"
   ],
-  "SelectedNode": "\\Chap11\\11-4\\11-4\\11-4.cpp",
+  "SelectedNode": "\\Chap12\\12-1\\12-1\\12-1.cpp",
   "PreviewInSolutionExplorer": false
 }
