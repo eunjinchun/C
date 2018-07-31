@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  17-1.cpp
+c:\users\eunjin\source\repos\c\chap17\17-1\17-1\17-1.cpp(17): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\eunjin\source\repos\c\chap17\17-1\17-1\17-1.cpp(17): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+  c:\users\eunjin\source\repos\c\chap17\17-1\17-1\17-1.cpp(17): note: 누락된 variadic 인수 4이(가) 서식 문자열 '%n'에 필요합니다.
+c:\users\eunjin\source\repos\c\chap17\17-1\17-1\17-1.cpp(18): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\eunjin\source\repos\c\chap17\17-1\17-1\17-1.cpp(18): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+  c:\users\eunjin\source\repos\c\chap17\17-1\17-1\17-1.cpp(18): note: 누락된 variadic 인수 4이(가) 서식 문자열 '%n'에 필요합니다.
+  17-1.vcxproj -> C:\Users\Eunjin\source\repos\C\Chap17\17-1\Debug\17-1.exe
