@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findfraction", "findfraction\findfraction.vcxproj", "{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Debug|x64.ActiveCfg = Debug|x64
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Debug|x64.Build.0 = Debug|x64
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Debug|x86.Build.0 = Debug|Win32
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Release|x64.ActiveCfg = Release|x64
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Release|x64.Build.0 = Release|x64
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Release|x86.ActiveCfg = Release|Win32
+		{5856F5BB-45BB-4111-A925-8A4FEF60CFBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E79A76-1B5D-4023-A044-3E3B756C5576}
+	EndGlobalSection
+EndGlobal
